@@ -3,8 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files('pagination.js', 'client');
-    console.log("Using pagination");
+    api.add_files('pagination.js', 'client',  {raw: true});
+  console.log("Using pagination");
 });
 
 Package.on_test(function (api) {
