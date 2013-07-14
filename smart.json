@@ -4,6 +4,6 @@
   "homepage": "https://github.com/egtann/meteor-pagination",
   "author": "Evan Tann",
   "version": "1.0.0",
-  "git": "https://github.com/egtann/meteor-pagination.git",
+  "git": "https://github.com/cfriel/meteor-pagination.git",
   "packages": {}
 }
